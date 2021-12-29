@@ -1,0 +1,1 @@
+{"version":"1.3.4", "notes":"Fixes, new compatibility with qs-smartphone and mk2 weapons."}
