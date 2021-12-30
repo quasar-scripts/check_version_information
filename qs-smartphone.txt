@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"Performance and visual improvements, bug fixes, and better key support."}
+{"version":"1.0.1", "notes":"Performance and visual improvements, bug fixes, better key support, and transparent screen fix."}
