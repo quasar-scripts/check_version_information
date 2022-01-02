@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"Visual improvements, bug fixes, new Mail system and Emergency Alert"}
+{"version":"1.0.3", "notes":"Performance improvements, the Emergency Alert system was fixed and support started up to 5K resolutions"}
