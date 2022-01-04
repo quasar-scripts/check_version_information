@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"General bug fixes, SQL fixes, and many feature enhancements"}
+{"version":"1.0.4", "notes":"General bug fixes, SQL fixes, and many feature enhancements!"}
