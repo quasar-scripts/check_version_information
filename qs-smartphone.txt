@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Performance improvements, the Emergency Alert system was fixed and support started up to 5K resolutions"}
+{"version":"1.0.4", "notes":"General bug fixes, SQL fixes, and many feature enhancements"}
