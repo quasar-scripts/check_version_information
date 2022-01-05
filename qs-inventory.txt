@@ -1,1 +1,1 @@
-{"version":"1.3.5", "notes":"Fixes and new compatibility with qs-smartphone!"}
+{"version":"1.3.6", "notes":"New weapons, accessories and tints, bug fixes and improvements in many functions"}
