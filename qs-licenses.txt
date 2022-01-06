@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"The gender system in the information was fixed"}
+{"version":"1.0.4", "notes":"The gender system in the information was fixed!"}
