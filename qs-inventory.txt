@@ -1,1 +1,1 @@
-{"version":"1.3.6", "notes":"New weapons, accessories and tints, bug fixes and improvements in many functions!"}
+{"version":"1.3.7", "notes":"New animations, configurations for specific vehicles and general fixes"}
