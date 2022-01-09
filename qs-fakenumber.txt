@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"First version!"}
+{"version":"1.0", "notes":"First version!"}
