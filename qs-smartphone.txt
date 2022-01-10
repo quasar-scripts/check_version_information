@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"General bug fixes, SQL fixes, and many feature enhancements!"}
+{"version":"1.0.5", "notes":"Almost complete rework on Instagram, visual improvements and many general fixes."}
