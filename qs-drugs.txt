@@ -1,1 +1,1 @@
-{"version":"1.0.7", "notes":"General fixes and new settings"}
+{"version":"1.0.8", "notes":"General fixes and new settings"}
