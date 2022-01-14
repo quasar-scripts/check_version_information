@@ -1,1 +1,1 @@
-{"version":"1.0.5", "notes":"Code cleanup and new config to show Plate!"}
+{"version":"1.0.6", "notes":"System improvements and visual rework in Job Garages"}
