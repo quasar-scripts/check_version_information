@@ -1,1 +1,1 @@
-{"version":"1.0.7", "notes":"Visual changes, performance improvements, and tons of new systems."}
+{"version":"1.0.7", "notes":"Visual changes, performance improvements and many new systems"}
