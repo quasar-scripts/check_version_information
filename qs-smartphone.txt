@@ -1,1 +1,1 @@
-{"version":"1.0.7", "notes":"Visual changes, performance improvements and many new systems"}
+{"version":"1.0.8", "notes":"Multiple fixes, YouTube remastering and enhancement in various resolutions"}
