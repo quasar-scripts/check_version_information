@@ -1,1 +1,1 @@
-{"version":"1.0.8", "notes":"Multiple fixes, YouTube remastering and enhancement in various resolutions"}
+{"version":"1.0.9", "notes":"Compatibility with all resolutions, visual rework in all apps and performance improvements"}
