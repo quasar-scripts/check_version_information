@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"Full remastered"}
+{"version":"1.0.5", "notes":"More fixes"}
