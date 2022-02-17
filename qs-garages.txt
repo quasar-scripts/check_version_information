@@ -1,1 +1,1 @@
-{"version":"1.0.7", "notes":"Small fixes, you can no longer save all types of vehicles in your garage and new config to remove vehicles from any garage"}
+{"version":"1.0.8", "notes":"New page system, without vehicle limitations"}
