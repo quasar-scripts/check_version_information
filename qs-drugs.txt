@@ -1,1 +1,1 @@
-{"version":"1.0.8", "notes":"Fixed bug in some versions of cfx that removed drawtext"}
+{"version":"1.0.9", "notes":"The error in the disappearance of the DrawText was definitively solved and compatibility with Key systems was added"}
