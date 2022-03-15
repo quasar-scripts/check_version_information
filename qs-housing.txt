@@ -1,1 +1,1 @@
-{"version":"1.2.4", "notes":"Compatibility with qs-smartphone and Mails"}
+{"version":"2.0.0", "notes":"New version 2.0.0 available only for customers, read the new README.md to see the new guides/functions"}
