@@ -1,1 +1,1 @@
-{"version":"2.0.0", "notes":"New version 2.0.0 available only for customers, read the new README.md to see the new guides/functions"}
+{"version":"2.0.1", "notes":"General arrangements in decorate, limitation of decoration to guests, arrangements in heights, positions and more"}
