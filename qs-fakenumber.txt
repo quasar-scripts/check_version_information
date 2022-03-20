@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"The problem when using the item was fixed"}
+{"version":"1.0.2", "notes":"Added config to set prefix and number of digits to fake number"}
