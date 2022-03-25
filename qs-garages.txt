@@ -1,1 +1,1 @@
-{"version":"1.0.8", "notes":"New page system, without vehicle limitations"}
+{"version":"1.0.9", "notes":"New vehicle deformation and hit save system"}
