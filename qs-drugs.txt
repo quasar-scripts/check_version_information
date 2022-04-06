@@ -1,1 +1,1 @@
-{"version":"1.0.9", "notes":"The error in the disappearance of the DrawText was definitively solved and compatibility with Key systems was added"}
+{"version":"1.1.0", "notes":"New fully fixed version, modern qbcore compatibility and general performance improvements"}
