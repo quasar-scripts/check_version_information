@@ -1,1 +1,1 @@
-{"version":"1.4.1", "notes":"QBCore compatibility, new files and some dupe types were patched"}
+{"version":"1.4.1", "notes":"QBCore compatibility, new files and some dupe types were patched!"}
