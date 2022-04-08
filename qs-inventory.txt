@@ -1,1 +1,1 @@
-{"version":"1.4.0", "notes":"New internal HUD system, first version of custom shops and much more!"}
+{"version":"1.4.1", "notes":"QBCore compatibility, new files and some dupe types were patched"}
