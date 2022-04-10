@@ -1,1 +1,1 @@
-{"version":"1.1.0", "notes":"New version restructured and with QBCore compatibility"}
+{"version":"1.1.0", "notes":"New version restructured and with QBCore compatibility!"}
