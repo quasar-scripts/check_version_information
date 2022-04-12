@@ -1,1 +1,1 @@
-{"version":"1.1.0", "notes":"New fully fixed version, modern qbcore compatibility and general performance improvements"}
+{"version":"1.1.1", "notes":"Fixed the problem that did not remove the item in the processes when using es_extended 1.1"}
