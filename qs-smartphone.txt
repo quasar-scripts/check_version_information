@@ -1,1 +1,1 @@
-{"version":"1.1.5", "notes":"QBCore compatibility and big fixes on old bugs"}
+{"version":"1.1.6", "notes":"New HTML translations, new ringtone system, important dependencies and more big changes"}
