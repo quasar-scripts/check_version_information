@@ -1,1 +1,1 @@
-{"version":"2.0.1", "notes":"General arrangements in decorate, limitation of decoration to guests, arrangements in heights, positions and more"}
+{"version":"2.0.2", "notes":"New version compatible with QBCore and some general fixes"}
