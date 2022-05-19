@@ -1,1 +1,1 @@
-{"version":"1.4.1", "notes":"QBCore compatibility, new files and some dupe types were patched!"}
+{"version":"1.4.2", "notes":"Lots of check fixes, new giveweapon/giveweaponcolor commands and new Vending Machine system"}
