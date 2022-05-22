@@ -1,1 +1,1 @@
-{"version":"2.0.2", "notes":"New version compatible with QBCore and some general fixes"}
+{"version":"2.0.3", "notes":"New Logout system, many general fixes and a better optimization await you in the next version"}
