@@ -1,1 +1,1 @@
-{"version":"1.1.9", "notes":"General fixes, new Discord app, new phone models and more"}
+{"version":"1.1.8", "notes":"Downgrade de emergencia por errores de compatibilidad"}
