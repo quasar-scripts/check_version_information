@@ -1,1 +1,1 @@
-{"version":"1.0.9", "notes":"New vehicle deformation and hit save system"}
+{"version":"2.0.0", "notes":"All the code was rewritten and an infinity of improvements were added, also a great UI to match your server"}
