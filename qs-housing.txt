@@ -1,1 +1,1 @@
-{"version":"2.0.3", "notes":"New Logout system, many general fixes and a better optimization await you in the next version"}
+{"version":"2.0.4", "notes":"Added ESX society systems, important fixes and much more"}
