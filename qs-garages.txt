@@ -1,1 +1,1 @@
-{"version":"2.0.0", "notes":"All the code was rewritten and an infinity of improvements were added, also a great UI to match your server"}
+{"version":"2.0.1", "notes":"Total improvement in the vehicles.lua, new whitelist job garages, and much more"}
