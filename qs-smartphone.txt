@@ -1,1 +1,1 @@
-{"version":"1.1.9", "notes":"Lots of changes, performance improvements, general fixes and new Discord app!"}
+{"version":"1.2.0", "notes":"Optimizations, improvements throughout the resource and new Uber App"}
