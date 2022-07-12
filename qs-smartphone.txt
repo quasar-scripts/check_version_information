@@ -1,1 +1,1 @@
-{"version":"1.2.0", "notes":"Optimizations, improvements throughout the resource and new Uber App"}
+{"version":"1.2.2", "notes":"Urgent update to version 1.2.2 for emergency reasons"}
