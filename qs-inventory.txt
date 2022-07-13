@@ -1,1 +1,1 @@
-{"version":"1.4.2", "notes":"Lots of check fixes, new giveweapon/giveweaponcolor commands and new Vending Machine system"}
+{"version":"1.4.3", "notes":"Super performance improvement and major exposes fixed"}
