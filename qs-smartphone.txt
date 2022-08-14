@@ -1,1 +1,1 @@
-{"version":"1.3.0", "notes":"Huge update, full of optimizations, visual improvements and new applications"}
+{"version":"1.3.1", "notes":"Added new TikTok app, new qs-videos dependency and removed API dependency on music apps"}
