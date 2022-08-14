@@ -1,1 +1,1 @@
-{"version":"1.1.4", "notes":"Full performance upgrade and important update"}
+{"version":"1.1.5", "notes":"Multiple performance improvements, new configurations and a more comfortable and customizable system"}
