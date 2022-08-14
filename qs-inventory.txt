@@ -1,1 +1,1 @@
-{"version":"1.4.3", "notes":"Super performance improvement and major exposes fixed"}
+{"version":"1.4.4", "notes":"Lots of dupe fixes and a new attachment system"}
