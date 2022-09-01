@@ -1,1 +1,1 @@
-{"version":"2.0.6", "notes":"Support for doors was improved, mortgages with daily payments were added and much more"}
+{"version":"2.0.7", "notes":"Decorate system rewritten, decoration free mode added, many general fixes and remake of qs-weed DLC"}
