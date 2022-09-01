@@ -1,1 +1,1 @@
-{"version":"1.4.4", "notes":"Lots of dupe fixes and a new attachment system"}
+{"version":"1.4.5", "notes":"Visual improvements, new visual clothing system, event to give item with metadata and much more"}
