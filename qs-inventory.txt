@@ -1,1 +1,1 @@
-{"version":"1.5.0", "notes":"General fixes, support for Crafting and Proximod DLC and much more"}
+{"version":"1.5.2", "notes":"General improvement in the weapon system and compatibility with the last build of es_extended"}
