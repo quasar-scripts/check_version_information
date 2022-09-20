@@ -1,1 +1,1 @@
-{"version":"1.5.2", "notes":"General improvement in the weapon system and compatibility with the last build of es_extended"}
+{"version":"1.5.3", "notes":"General system repair of required items"}
