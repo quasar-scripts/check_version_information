@@ -1,1 +1,1 @@
-{"version":"2.0.7", "notes":"Decorate system rewritten, decoration free mode added, many general fixes and remake of qs-weed DLC"}
+{"version":"2.1.0", "notes":"New IPL system, improved doors and more, don't forget to use bob74_ipl!"}
