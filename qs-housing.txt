@@ -1,1 +1,1 @@
-{"version":"2.1.0", "notes":"New IPL system, improved doors and more, don't forget to use bob74_ipl!"}
+{"version":"2.1.1", "notes":"Multiple bug fixes on IPL and added FeedAndTaxes"}
