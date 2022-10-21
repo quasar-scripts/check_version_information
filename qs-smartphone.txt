@@ -1,1 +1,1 @@
-{"version":"2.0.1", "notes":"Multiple general fixes, more optimizations and new configs"}
+{"version":"2.0.2", "notes":"General fixes, Radio app returns, visual improvement in Business and many more important changes"}
