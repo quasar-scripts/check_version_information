@@ -1,1 +1,1 @@
-{"version":"1.5.3", "notes":"General system repair of required items"}
+{"version":"1.5.6", "notes":"Important visual fixes, fixed duplicate stash and some more news"}
