@@ -1,1 +1,1 @@
-{"version":"1.5.6", "notes":"Important visual fixes, fixed duplicate stash and some more news"}
+{"version":"1.5.7", "notes":"qb-traphouse compatibility, event moved to open source and visual fixes"}
