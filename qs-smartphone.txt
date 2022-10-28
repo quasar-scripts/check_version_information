@@ -1,1 +1,1 @@
-{"version":"2.0.3", "notes":"Repair and general optimization of code and UI, the messaging system was fixed to jobs and general calls"}
+{"version":"2.0.5", "notes":"Lots of general fixes, qbcore call fixes and new Sellix app"}
