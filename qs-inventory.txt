@@ -1,1 +1,1 @@
-{"version":"1.5.7", "notes":"qb-traphouse compatibility, event moved to open source and visual fixes"}
+{"version":"1.5.8", "notes":"Resolved a ghost weapon dupe system"}
