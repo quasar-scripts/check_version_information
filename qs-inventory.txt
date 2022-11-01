@@ -1,1 +1,1 @@
-{"version":"1.5.8", "notes":"Resolved a ghost weapon dupe system"}
+{"version":"1.5.9", "notes":"Fixed some dupes, added better qbcore compatibility and fixed sounds"}
