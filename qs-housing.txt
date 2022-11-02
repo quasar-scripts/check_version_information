@@ -1,1 +1,1 @@
-{"version":"2.1.4", "notes":"Added a new config and fixed the raid system"}
+{"version":"2.1.5", "notes":"Added multiple settings about fees and taxes, also compatibility with decimals"}
