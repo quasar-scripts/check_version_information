@@ -1,1 +1,1 @@
-{"version":"2.0.7", "notes":"Fixed all pending bugs and UI lag, please replace the entire qs-smartphone folder"}
+{"version":"2.0.8", "notes":"Lots of visual fixes, general additions and cool new settings, yeyy"}
