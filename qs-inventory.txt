@@ -1,1 +1,1 @@
-{"version":"1.5.9", "notes":"Fixed some dupes, added better qbcore compatibility and fixed sounds"}
+{"version":"1.6.0", "notes":"The openinventory system for administrators was fixed, small optimization and important antidupes"}
