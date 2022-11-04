@@ -1,1 +1,1 @@
-{"version":"2.1.5", "notes":"Added multiple settings about fees and taxes, also compatibility with decimals"}
+{"version":"2.1.6", "notes":"Multiple fixes on decorate, blips and more"}
