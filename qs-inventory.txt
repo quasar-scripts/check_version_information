@@ -1,1 +1,1 @@
-{"version":"1.6.0", "notes":"The openinventory system for administrators was fixed, small optimization and important antidupes"}
+{"version":"1.6.1", "notes":"Bugs in QBCore were fixed and vendings with qtarget were made compatible"}
