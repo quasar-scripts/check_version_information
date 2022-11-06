@@ -1,1 +1,1 @@
-{"version":"1.2.1", "notes":"Multiple performance improvements, new configurations and a more comfortable and customizable system"}
+{"version":"1.3.1", "notes":"General code repair and fixes in qbcore"}
