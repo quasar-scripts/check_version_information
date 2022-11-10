@@ -1,1 +1,1 @@
-{"version":"2.1.6", "notes":"Multiple fixes on decorate, blips and more"}
+{"version":"2.1.7", "notes":"Completely fixed the code, important update"}
