@@ -1,1 +1,1 @@
-{"version":"2.0.8", "notes":"Lots of visual fixes, general additions and cool new settings, yeyy"}
+{"version":"2.1.0", "notes":"Mega update with many improvements, added things and much more, general fix and UI lag resolved"}
