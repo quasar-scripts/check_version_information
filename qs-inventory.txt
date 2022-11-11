@@ -1,1 +1,1 @@
-{"version":"1.6.1", "notes":"Bugs in QBCore were fixed and vendings with qtarget were made compatible"}
+{"version":"1.6.2", "notes":"New checkups and general repairs"}
