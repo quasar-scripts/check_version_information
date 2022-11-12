@@ -1,1 +1,1 @@
-{"version":"2.1.0", "notes":"Mega update with many improvements, added things and much more, general fix and UI lag resolved"}
+{"version":"2.1.1", "notes":"Recipes removed, booth fixes and general compression for UI lag"}
