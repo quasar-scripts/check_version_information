@@ -1,1 +1,1 @@
-{"version":"2.1.5", "notes":"Extreme optimization in all the code, multiple bug fixes and super stable version, we hope to keep it for a while"}
+{"version":"2.1.6", "notes":"IMPORTANT, NEW DISCORD COMUNITY FOR QUASAR: https://discord.gg/y4USnBMyWr !!! Mini-patch and solved general errors"}
