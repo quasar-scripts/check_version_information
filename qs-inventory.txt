@@ -1,1 +1,1 @@
-{"version":"1.6.3", "notes":"General fixes between players and many general improvements"}
+{"version":"1.6.4", "notes":"New inventory settings, fixes, general improvements and code cleanups"}
