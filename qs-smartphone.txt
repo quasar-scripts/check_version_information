@@ -1,1 +1,1 @@
-{"version":"2.1.6", "notes":"IMPORTANT, NEW DISCORD COMUNITY FOR QUASAR: https://discord.gg/y4USnBMyWr !!! Mini-patch and solved general errors"}
+{"version":"2.1.7", "notes":"General package repair, instagram button fixes, better intervals on the JS side and don't forget to enter the new Quasar Community: https://discord.gg/y4USnBMyWr"}
