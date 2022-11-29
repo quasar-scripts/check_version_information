@@ -1,1 +1,1 @@
-{"version":"2.1.9", "notes":"General optimization, error patching and general maintenance of the resource"}
+{"version":"2.2.0", "notes":"General improvement, and many logs for checking broken shells"}
