@@ -1,1 +1,1 @@
-{"version":"2.1.7", "notes":"General package repair, instagram button fixes, better intervals on the JS side and don't forget to enter the new Quasar Community: https://discord.gg/y4USnBMyWr"}
+{"version":"2.1.9", "notes":"The xsound system was completely repaired, improvements and fixes were also added in Uber App and some general code repairs"}
