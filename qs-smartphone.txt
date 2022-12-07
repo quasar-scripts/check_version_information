@@ -1,1 +1,1 @@
-{"version":"2.1.9", "notes":"The xsound system was completely repaired, improvements and fixes were also added in Uber App and some general code repairs"}
+{"version":"2.2.0", "notes":"Target support, new improved events and general patch"}
