@@ -1,1 +1,1 @@
-{"version":"1.6.6", "notes":"General code repair and junk cleanup, update the resource completely if you have any weird bugs"}
+{"version":"1.6.7", "notes":"General qs-shops was fixed and more logs were added in qs-inventory"}
