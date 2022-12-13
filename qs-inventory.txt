@@ -1,1 +1,1 @@
-{"version":"1.6.7", "notes":"General qs-shops was fixed and more logs were added in qs-inventory"}
+{"version":"1.6.8", "notes":"Fixed some codes, fixed some DLC's and added general improvements"}
