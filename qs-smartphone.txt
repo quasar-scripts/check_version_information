@@ -1,1 +1,1 @@
-{"version":"2.2.0", "notes":"Target support, new improved events and general patch"}
+{"version":"2.2.1", "notes":"Made general repairs in maintenance mode, fixed broken code and some exciting new features that many customers requested"}
