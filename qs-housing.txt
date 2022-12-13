@@ -1,1 +1,1 @@
-{"version":"2.2.0", "notes":"General improvement, and many logs for checking broken shells"}
+{"version":"2.2.1", "notes":"General code cleanup, new improvements and some general fixes, take this patch as a general maintenance"}
