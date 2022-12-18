@@ -1,1 +1,1 @@
-{"version":"2.2.1", "notes":"General code cleanup, new improvements and some general fixes, take this patch as a general maintenance"}
+{"version":"2.2.2", "notes":"Added new compatibilities and general code maintenance."}
