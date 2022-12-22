@@ -1,1 +1,1 @@
-{"version":"2.2.2", "notes":"Fixed many random console bugs, improved performance and lots of new changes, such as ox_inventro and compatibility, check the changelog in our community for all the changes"}
+{"version":"2.2.3", "notes":"Completely fixed the call system, added improvements to ox_inventory config and many more performance improvements"}
