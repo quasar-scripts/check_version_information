@@ -1,1 +1,1 @@
-{"version":"2.2.3", "notes":"Completely fixed the call system, added improvements to ox_inventory config and many more performance improvements"}
+{"version":"2.2.4", "notes":"Business repair and improvement in Spotify"}
