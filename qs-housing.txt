@@ -1,1 +1,1 @@
-{"version":"2.2.3", "notes":"Fixed the dupe problem in qs-inventory and fixed custom option"}
+{"version":"2.2.4", "notes":"Fixed the dupe problem in qs-inventory and fixed custom option"}
