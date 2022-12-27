@@ -1,1 +1,1 @@
-{"version":"2.2.3", "notes":"Added compatibility with new garages, added setting to disable the mortgage system, improved compatibility with ox_inventory and much more."}
+{"version":"2.2.3", "notes":"Fixed the dupe problem in qs-inventory and fixed custom option"}
