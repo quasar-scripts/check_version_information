@@ -1,1 +1,1 @@
-{"version":"1.6.8", "notes":"Fixed some codes, fixed some DLC's and added general improvements"}
+{"version":"1.7.0", "notes":"Broken code was repaired and it was also adapted to the new esx-legacy, we also added new configurations and important fixes, check the changelog at quasar-store.co"}
