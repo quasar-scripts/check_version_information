@@ -1,1 +1,1 @@
-{"version":"2.2.4", "notes":"Fixed the dupe problem in qs-inventory and fixed custom option"}
+{"version":"2.2.5", "notes":"General maintenance was done to the resource, we patched some bugs and adapted to new versions, check the changelog at quasar-store.com"}
