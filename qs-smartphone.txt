@@ -1,1 +1,1 @@
-{"version":"2.2.4", "notes":"Business repair and improvement in Spotify"}
+{"version":"2.2.5", "notes":"Multiple fixes, improvements and much more, visit quasar-store.com to know more"}
