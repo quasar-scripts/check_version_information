@@ -1,1 +1,1 @@
-{"version":"1.7.0", "notes":"Broken code was repaired and it was also adapted to the new esx-legacy, we also added new configurations and important fixes, check the changelog at quasar-store.co"}
+{"version":"1.7.1", "notes":"Cleaned up junk code and added a new antidupe that fixed many annoying systems, check the updates on quasar-store.com"}
