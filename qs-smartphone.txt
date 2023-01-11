@@ -1,1 +1,1 @@
-{"version":"2.2.5", "notes":"Multiple fixes, improvements and much more, visit quasar-store.com to know more"}
+{"version":"2.2.6", "notes":"Added a setting for soundStatus refresh waits, a way to change qb-menu events, repairs in Tinder app and much more, check the changelogs in your email or on www.quasar-store.com"}
