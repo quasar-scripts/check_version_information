@@ -1,1 +1,1 @@
-{"version":"2.2.6", "notes":"General maintenance patch, some new configurations and small fixes, check the changelog in your email or at www.quasar-store.com"}
+{"version":"2.2.7", "notes":"Fixed a random error that appeared in QBCore, check the changelogs at www.quasar-store.com"}
