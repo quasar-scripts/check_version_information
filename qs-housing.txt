@@ -1,1 +1,1 @@
-{"version":"2.2.7", "notes":"Fixed a random error that appeared in QBCore, check the changelogs at www.quasar-store.com"}
+{"version":"2.2.8", "notes":"Completely modified the 'createhouse' command and removed vue.js logs, check out the complete changelog at www.quasar-store.com"}
