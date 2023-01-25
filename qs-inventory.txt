@@ -1,1 +1,1 @@
-{"version":"1.7.1", "notes":"Cleaned up junk code and added a new antidupe that fixed many annoying systems, check the updates on quasar-store.com"}
+{"version":"1.7.3", "notes":"Fixed multiple antidupe systems, now you can swap and stake, also many codes were added and modified, see changelog at www.quasar-store.com"}
