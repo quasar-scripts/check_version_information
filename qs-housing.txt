@@ -1,1 +1,1 @@
-{"version":"2.2.8", "notes":"Completely modified the 'createhouse' command and removed vue.js logs, check out the complete changelog at www.quasar-store.com"}
+{"version":"2.2.9", "notes":"Fixed the portable stash in esx_menu_default for MLO and added a new config for the cops, being able to use multiple jobs, we also added direct compatibility with the future qs-garages v3, if you use the current garage, use the qs-garages-old option, check out the complete changelog at www.quasar-store.com"}
