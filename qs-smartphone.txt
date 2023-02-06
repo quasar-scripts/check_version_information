@@ -1,1 +1,1 @@
-{"version":"2.2.8", "notes":"The sound system was completely improved and now it is much more optimized, check the changelogs in your email or on www.quasar-store.com"}
+{"version":"2.2.9", "notes":"General bugs were fixed, the code was visually optimized and the log system was updated, check the changelogs in your email or on www.quasar-store.com"}
