@@ -1,1 +1,1 @@
-{"version":"1.7.4", "notes":"Fixed minor issues, rewritten the Combinable items system and blocked access to players at the same time in the same inventory in qbcore, see changelog at www.quasar-store.com"}
+{"version":"1.7.5", "notes":"A general maintenance of the package (qs-core/qs-inventory/qs-shops) was carried out, it was optimized and a new configurable Debug system was added, see changelog at www.quasar-store.com"}
