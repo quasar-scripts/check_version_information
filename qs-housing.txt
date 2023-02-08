@@ -1,1 +1,1 @@
-{"version":"2.3.1", "notes":"The resource was maintained, qs-weed DLC was improved and new logs were added and compatibility with ap-government was added, check out the complete changelog at www.quasar-store.com"}
+{"version":"2.3.3", "notes":"Fixed qs-garages system, check out the complete changelog at www.quasar-store.com"}
