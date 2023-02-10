@@ -1,1 +1,1 @@
-{"version":"2.2.9", "notes":"General bugs were fixed, the code was visually optimized and the log system was updated, check the changelogs in your email or on www.quasar-store.com"}
+{"version":"2.3.0", "notes":"Cleaned up the code and fixed some minor things, check the changelogs in your email or on www.quasar-store.com"}
