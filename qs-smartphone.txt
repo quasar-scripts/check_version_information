@@ -1,1 +1,1 @@
-{"version":"2.3.1", "notes":"Fixed and rewrote qs-fakenumber, also modified qs-smartphone to improve its function, check the changelogs in your email or on www.quasar-store.com"}
+{"version":"2.3.2", "notes":"A general maintenance was made to the resource and some general errors were repaired, check the changelogs in your email or on www.quasar-store.com"}
