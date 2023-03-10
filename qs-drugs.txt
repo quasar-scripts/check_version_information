@@ -1,1 +1,1 @@
-{"version":"1.3.2", "notes":"Washing was repaired and a minimum and maximum amount of pick drugs was added"}
+{"version":"1.3.3", "notes":"Junk codes were repaired and a code that gave errors was repaired"}
