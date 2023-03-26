@@ -1,1 +1,1 @@
-{"version":"2.4.1", "notes":"Fixed some old bugs and details"}
+{"version":"2.4.2", "notes":"Messages app was repaired and a small error in YouTube app was also fixed"}
