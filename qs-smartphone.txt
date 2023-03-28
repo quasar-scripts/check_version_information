@@ -1,1 +1,1 @@
-{"version":"2.4.2", "notes":"Messages app was repaired and a small error in YouTube app was also fixed"}
+{"version":"2.4.3", "notes":"Lots of general fixes and code cleanups, we also update qs-rental dlc"}
