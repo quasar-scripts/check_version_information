@@ -1,1 +1,1 @@
-{"version":"2.3.3", "notes":"Fixed qs-garages system, check out the complete changelog at www.quasar-store.com"}
+{"version":"2.4.1", "notes":"The code was rewritten, update please"}
