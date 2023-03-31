@@ -1,1 +1,1 @@
-{"version":"2.4.1", "notes":"The code was rewritten, update please"}
+{"version":"2.4.2", "notes":"Fixed multiple general problems, updated the sql and added new inventories"}
