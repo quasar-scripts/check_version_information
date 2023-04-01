@@ -1,1 +1,1 @@
-{"version":"2.4.2", "notes":"Fixed multiple general problems, updated the sql and added new inventories"}
+{"version":"2.4.3", "notes":"Added multiple new configurable files and fixed many general bugs we found in tickets. We ask people with installation errors to please follow the steps of the guides and tutorials that we upload, the completely clean resource will always work perfectly"}
