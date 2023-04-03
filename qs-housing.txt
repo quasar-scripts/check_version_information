@@ -1,1 +1,1 @@
-{"version":"2.4.3", "notes":"Added multiple new configurable files and fixed many general bugs we found in tickets. We ask people with installation errors to please follow the steps of the guides and tutorials that we upload, the completely clean resource will always work perfectly"}
+{"version":"2.4.4", "notes":"Multiple fixes were made, please update me"}
