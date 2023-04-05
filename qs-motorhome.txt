@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"Updated launched!"}
+{"version":"1.0.5", "notes":"Added support for core_inventory"}
