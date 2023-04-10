@@ -1,1 +1,1 @@
-{"version":"2.4.5", "notes":"Fixed multiple general errors, such as offsets, raids, ox_lib and more, check the changelog in our discord community"}
+{"version":"2.4.6", "notes":"Multiple changes were made, the list is huge so update urgently if you have bugs and go read changelogs on discord"}
