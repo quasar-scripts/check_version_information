@@ -1,1 +1,1 @@
-{"version":"2.4.6", "notes":"Multiple changes were made, the list is huge so update urgently if you have bugs and go read changelogs on discord"}
+{"version":"2.4.7", "notes":"Fixed all bugs mentioned by customers, read changelogs on our discord community"}
