@@ -1,1 +1,1 @@
-{"version":"2.4.3", "notes":"Lots of general fixes and code cleanups, we also update qs-rental dlc"}
+{"version":"2.4.4", "notes":"Fixed many errors in DLCs and fixed some codes on Smartphone"}
