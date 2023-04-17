@@ -1,1 +1,1 @@
-{"version":"1.0.5", "notes":"Added support for core_inventory"}
+{"version":"1.0.6", "notes":"Completely fixed the esx_default system in stash and wardrobes"}
