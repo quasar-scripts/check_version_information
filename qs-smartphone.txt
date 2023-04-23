@@ -1,1 +1,1 @@
-{"version":"2.4.4", "notes":"Fixed many errors in DLCs and fixed some codes on Smartphone"}
+{"version":"2.4.5", "notes":"Multiple major fixes, please go to changelog and update urgently"}
