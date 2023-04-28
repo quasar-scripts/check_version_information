@@ -1,1 +1,1 @@
-{"version":"2.4.9", "notes":"Errors were resolved in the real estate menu and some minor fix"}
+{"version":"2.5.0", "notes":"Multiple fixes and debug system on a larger scale, now you will have more information if you have any errors"}
