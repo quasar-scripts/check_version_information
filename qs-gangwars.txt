@@ -1,1 +1,1 @@
-{"version":"1.1.2", "notes":"Added many new performance improvements, general fixes and compatibility."}
+{"version":"1.2.0", "notes":"Rewritten the whole resource, now it works like a bullet"}
