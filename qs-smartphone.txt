@@ -1,1 +1,1 @@
-{"version":"2.4.5", "notes":"Multiple major fixes, please go to changelog and update urgently"}
+{"version":"2.4.6", "notes":"Completely fixed the system calls in qbcore"}
