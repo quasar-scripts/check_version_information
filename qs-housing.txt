@@ -1,1 +1,1 @@
-{"version":"2.5.0", "notes":"Multiple fixes and debug system on a larger scale, now you will have more information if you have any errors"}
+{"version":"2.5.1", "notes":"General weed system fixes, major optimization and junk removal"}
