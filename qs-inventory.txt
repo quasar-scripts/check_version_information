@@ -1,1 +1,1 @@
-{"version":"1.7.5", "notes":"A general maintenance of the package (qs-core/qs-inventory/qs-shops) was carried out, it was optimized and a new configurable Debug system was added, see changelog at www.quasar-store.com"}
+{"version":"2.0.3", "notes":"Fixed the giveitem and amounts system"}
