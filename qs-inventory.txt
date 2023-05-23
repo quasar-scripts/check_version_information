@@ -1,1 +1,1 @@
-{"version":"2.0.4", "notes":"Fixed giveitem and amounts system, added character name instead of steam name and some general improvement"}
+{"version":"2.0.5", "notes":"Multiple general fixes in money, banking system and more, check the changelog"}
