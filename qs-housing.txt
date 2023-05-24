@@ -1,1 +1,1 @@
-{"version":"2.5.1", "notes":"General weed system fixes, major optimization and junk removal"}
+{"version":"2.5.3", "notes":"Completely revised the resource and made improvements and general fixes, read changelog"}
