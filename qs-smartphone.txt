@@ -1,1 +1,1 @@
-{"version":"2.4.6", "notes":"Completely fixed the system calls in qbcore"}
+{"version":"2.4.8", "notes":"A maintenance patch was made and basic bugs were fixed"}
