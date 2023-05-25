@@ -1,1 +1,1 @@
-{"version":"2.5.3", "notes":"Completely revised the resource and made improvements and general fixes, read changelog"}
+{"version":"2.5.4", "notes":"Made a general maintenance patch"}
