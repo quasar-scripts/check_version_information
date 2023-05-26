@@ -1,1 +1,1 @@
-{"version":"2.0.6", "notes":"Small general maintenance patch, read changelogs"}
+{"version":"2.0.8", "notes":"Part of the code was modified and many things were fixed, check the changelog"}
