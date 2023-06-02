@@ -1,1 +1,1 @@
-{"version":"2.4.8", "notes":"A maintenance patch was made and basic bugs were fixed"}
+{"version":"2.4.9", "notes":"Fixed the repair phone and logout system in qb"}
