@@ -1,1 +1,1 @@
-{"version":"2.1.0", "notes":"Added weapontints and many general improvements, compatibility with T3 Scripts and the resource is now stable, update to 2.1+"}
+{"version":"2.1.1", "notes":"Optimizations, added url ink and general improvements to the resource"}
