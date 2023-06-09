@@ -1,1 +1,1 @@
-{"version":"2.1.1", "notes":"Optimizations, added url ink and general improvements to the resource"}
+{"version":"2.1.2", "notes":"Event rewrite, optimization, multiple fixes and improvements. UPDATE THE ASSET COMPLETELY PLEASE"}
