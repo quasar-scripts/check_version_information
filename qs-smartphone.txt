@@ -1,1 +1,1 @@
-{"version":"2.4.9", "notes":"Fixed the repair phone and logout system in qb"}
+{"version":"2.5.2", "notes":"Lots of general fixes, changes to the check phone system and more. Check the changelog to see everything."}
