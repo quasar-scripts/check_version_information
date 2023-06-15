@@ -1,1 +1,1 @@
-{"version":"2.1.2", "notes":"Event rewrite, optimization, multiple fixes and improvements. UPDATE THE ASSET COMPLETELY PLEASE"}
+{"version":"2.1.4", "notes":"In this patch, any errors when using items, when entering the server or even when stealing with qb and esx have been resolved. Because some people with qb had random bugs, they won't anymore"}
