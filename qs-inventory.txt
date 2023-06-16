@@ -1,1 +1,1 @@
-{"version":"2.1.4", "notes":"In this patch, any errors when using items, when entering the server or even when stealing with qb and esx have been resolved. Because some people with qb had random bugs, they won't anymore"}
+{"version":"2.1.5", "notes":"Fixed many optimization bugs, added open code to the commands and fixed money fresh when using the GIVE button"}
