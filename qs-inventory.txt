@@ -1,1 +1,1 @@
-{"version":"2.1.5", "notes":"Fixed many optimization bugs, added open code to the commands and fixed money fresh when using the GIVE button"}
+{"version":"2.1.6", "notes":"General fixes in basic errors, configuration improvements and beautiful news"}
