@@ -1,1 +1,1 @@
-{"version":"2.5.2", "notes":"Lots of general fixes, changes to the check phone system and more. Check the changelog to see everything."}
+{"version":"2.5.3", "notes":"Fixed bugs when creating a new character and trying to call it"}
