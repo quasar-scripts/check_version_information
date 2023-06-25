@@ -1,1 +1,1 @@
-{"version":"2.1.6", "notes":"General fixes in basic errors, configuration improvements and beautiful news"}
+{"version":"2.1.8", "notes":"Huge patch that will solve all the general problems of the same, recommended to see changelog"}
