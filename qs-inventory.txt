@@ -1,1 +1,1 @@
-{"version":"2.1.8", "notes":"Huge patch that will solve all the general problems of the same, recommended to see changelog"}
+{"version":"2.2.0", "notes":"Huge changes in system logic, lots of new additions and most cases resolved, we added many new features such as ability to add custom weapons easily, comfortable settings and more, read the changelog on our discord to know more"}
