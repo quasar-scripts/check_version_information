@@ -1,1 +1,1 @@
-{"version":"2.2.1", "notes":"Fixed all the mentioned problems (many), also added a decay system and many more important features, please fully update the resource"}
+{"version":"2.2.2", "notes":"General NUI lag problems were fixed, more logs and debugs were added, there were also fixes in many general errors"}
