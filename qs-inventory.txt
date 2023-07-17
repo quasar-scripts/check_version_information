@@ -1,1 +1,1 @@
-{"version":"2.2.2", "notes":"General NUI lag problems were fixed, more logs and debugs were added, there were also fixes in many general errors"}
+{"version":"2.2.3", "notes":"Urgent update fixed errors in saving items, and drops, also added more debugs"}
