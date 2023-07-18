@@ -1,1 +1,1 @@
-{"version":"2.2.3", "notes":"Urgent update fixed errors in saving items, and drops, also added more debugs"}
+{"version":"2.2.4", "notes":"The url_weapontint system was greatly improved and general problems were fixed"}
