@@ -1,1 +1,1 @@
-{"version":"2.5.7", "notes":"Maintenance patch, fixed mlo menu system with F5"}
+{"version":"2.5.9", "notes":"Tons of fixes and optimizations, we recommend updating all files, but watch changelogs"}
