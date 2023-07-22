@@ -1,1 +1,1 @@
-{"version":"2.5.3", "notes":"Fixed bugs when creating a new character and trying to call it"}
+{"version":"2.5.4", "notes":"Fixed many general issues and resolved a major exploit, read changelog"}
