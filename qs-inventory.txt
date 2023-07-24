@@ -1,1 +1,1 @@
-{"version":"2.2.4", "notes":"The url_weapontint system was greatly improved and general problems were fixed"}
+{"version":"2.2.5", "notes":"Added new features, improvements and general fixes, read the changelog"}
