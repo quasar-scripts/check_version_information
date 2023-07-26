@@ -1,1 +1,1 @@
-{"version":"2.5.4", "notes":"Fixed many general issues and resolved a major exploit, read changelog"}
+{"version":"2.5.5", "notes":"Fix in bank and ox, also fixed secondary things like message and more, read the changelog"}
