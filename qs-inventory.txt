@@ -1,1 +1,1 @@
-{"version":"2.2.5", "notes":"Added new features, improvements and general fixes, read the changelog"}
+{"version":"2.2.6", "notes":"Fixed multiple general issues and added unique new features"}
