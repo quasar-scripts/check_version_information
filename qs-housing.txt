@@ -1,1 +1,1 @@
-{"version":"2.6.0", "notes":"Fixed the problem of random furniture disappearances"}
+{"version":"2.6.2", "notes":"Rewrite of almost all code, completely replace"}
