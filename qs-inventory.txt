@@ -1,1 +1,1 @@
-{"version":"2.2.8", "notes":"Added and fixed many things, read the changelog on your discord customer channel"}
+{"version":"2.2.9", "notes":"General code improvements, read changelogs, but fixed and added a few things"}
