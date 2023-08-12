@@ -1,1 +1,1 @@
-{"version":"2.5.5", "notes":"Fix in bank and ox, also fixed secondary things like message and more, read the changelog"}
+{"version":"2.5.6", "notes":"The script was updated, added some new features and code cleaning, by the way, I hope it will be prepared for smartphone v3 ;)"}
