@@ -1,1 +1,1 @@
-{"version":"2.5.6", "notes":"The script was updated, added some new features and code cleaning, by the way, I hope it will be prepared for smartphone v3 ;)"}
+{"version":"2.5.7", "notes":"Fixed the qs-advanced garages option and added notifie to business dispatch"}
