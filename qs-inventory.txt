@@ -1,1 +1,1 @@
-{"version":"2.3.0", "notes":"Some general fixes, update if you want to keep everything up to date"}
+{"version":"2.3.2", "notes":"Full optimization and removed the hidden mouse in draggin"}
