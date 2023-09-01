@@ -1,1 +1,1 @@
-{"version":"2.3.3", "notes":"General maintenance of the asset, it was repaired little but important"}
+{"version":"2.3.5", "notes":"Many problems were massively fixed, the parachute and weaponsonback dlc were also updated"}
