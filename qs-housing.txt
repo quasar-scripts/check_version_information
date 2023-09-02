@@ -1,1 +1,1 @@
-{"version":"2.6.5", "notes":"General maintenance patch and some minor issues resolved"}
+{"version":"2.6.3", "notes":"Some parameters were repaired and a rollback was made to 2.6.3, stable version"}
