@@ -1,1 +1,1 @@
-{"version":"2.5.7", "notes":"Fixed the qs-advanced garages option and added notifie to business dispatch"}
+{"version":"2.5.8", "notes":"General patch, among the last patches before the launch of smartphone v3"}
