@@ -1,1 +1,1 @@
-{"version":"1.4.0", "notes":"Almost complete update of the code and general improvements in the script"}
+{"version":"1.5.2", "notes":"Massively updated and optimized the code"}
