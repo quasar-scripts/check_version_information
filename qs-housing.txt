@@ -1,1 +1,1 @@
-{"version":"2.6.4", "notes":"Fixed some things and general lag"}
+{"version":"2.6.5", "notes":"Multiple fixes, some new logs added and progressbar to evade a plants exploitg"}
