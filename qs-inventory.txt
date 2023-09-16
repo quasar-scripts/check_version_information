@@ -1,1 +1,1 @@
-{"version":"2.3.5", "notes":"Many problems were massively fixed, the parachute and weaponsonback dlc were also updated"}
+{"version":"2.3.7", "notes":"Isolated cases and some qs-shops errors were resolved, some extra configurations were also added in qs-inventory, read the changelog carefully"}
