@@ -1,1 +1,1 @@
-{"version":"2.5.8", "notes":"General patch, among the last patches before the launch of smartphone v3"}
+{"version":"2.6.0", "notes":"All applications and their images have been renamed (FiveM and Rockstar Games regularizations), update completely to avoid visual problems"}
