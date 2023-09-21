@@ -1,1 +1,1 @@
-{"version":"2.3.7", "notes":"Isolated cases and some qs-shops errors were resolved, some extra configurations were also added in qs-inventory, read the changelog carefully"}
+{"version":"2.3.8", "notes":"General improvements, some fixes and the long-awaited qbcore item cash"}
