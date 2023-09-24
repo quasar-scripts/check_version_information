@@ -1,1 +1,1 @@
-{"version":"2.3.8", "notes":"General improvements, some fixes and the long-awaited qbcore item cash"}
+{"version":"2.3.9", "notes":"Several cases of exploits in weapons and bullets were resolved and some interesting new features were added. Please update the script correctly to avoid problems"}
