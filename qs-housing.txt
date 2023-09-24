@@ -1,1 +1,1 @@
-{"version":"2.6.5", "notes":"Multiple fixes, some new logs added and progressbar to evade a plants exploitg"}
+{"version":"2.6.6", "notes":"Several cases of exploits in weapons and bullets were resolved and some interesting new features were added. Please update the script correctly to avoid problems"}
