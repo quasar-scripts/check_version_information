@@ -1,1 +1,1 @@
-{"version":"2.3.9", "notes":"Several cases of exploits in weapons and bullets were resolved and some interesting new features were added. Please update the script correctly to avoid problems"}
+{"version":"2.4.0", "notes":"A future xploit problem was resolved and some systems were improved, if you are going to make this patch do not forget to update the previous changelog of 2.3.9"}
