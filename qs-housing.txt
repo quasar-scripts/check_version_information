@@ -1,1 +1,1 @@
-{"version":"2.6.6", "notes":"Several cases of exploits in weapons and bullets were resolved and some interesting new features were added. Please update the script correctly to avoid problems"}
+{"version":"2.7.6", "notes":"A complete rewrite of the decorations system was done since there were previously problems with the json that was uploaded to the database. Now it is more direct and effective!"}
