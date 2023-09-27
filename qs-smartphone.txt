@@ -1,1 +1,1 @@
-{"version":"2.6.0", "notes":"All applications and their images have been renamed (FiveM and Rockstar Games regularizations), update completely to avoid visual problems"}
+{"version":"2.6.2", "notes":"Error cases in webhooks and yellow pages were resolved, now it will save your information, update the sql"}
