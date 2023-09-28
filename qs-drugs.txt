@@ -1,1 +1,1 @@
-{"version":"1.5.2", "notes":"Massively updated and optimized the code"}
+{"version":"1.5.4", "notes":"General improvements were added to the charging system for npcs and vehiclekeys"}
