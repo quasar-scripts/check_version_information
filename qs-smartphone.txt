@@ -1,1 +1,1 @@
-{"version":"2.6.2", "notes":"Error cases in webhooks and yellow pages were resolved, now it will save your information, update the sql"}
+{"version":"2.7.2", "notes":"Important patch that resolves many cases previously seen in tickets, please update the script correctly"}
