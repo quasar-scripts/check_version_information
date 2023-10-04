@@ -1,1 +1,1 @@
-{"version":"2.4.0", "notes":"A future xploit problem was resolved and some systems were improved, if you are going to make this patch do not forget to update the previous changelog of 2.3.9"}
+{"version":"2.4.1", "notes":"In general, this patch resolves some common errors and improves the system both in decay and in others. Some exploits were resolved, such as simultaneous firing while changing weapons, etc."}
