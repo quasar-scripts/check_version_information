@@ -1,1 +1,1 @@
-{"version":"2.7.2", "notes":"Important patch that resolves many cases previously seen in tickets, please update the script correctly"}
+{"version":"2.7.3", "notes":"Some general parameters of the asset were fixed and exports were added, check the changelog in your customer channel"}
