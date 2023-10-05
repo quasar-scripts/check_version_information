@@ -1,1 +1,1 @@
-{"version":"2.7.6", "notes":"A complete rewrite of the decorations system was done since there were previously problems with the json that was uploaded to the database. Now it is more direct and effective!"}
+{"version":"2.7.7", "notes":"General decoration errors were resolved and some parameters were repaired, we also added a new and improved mortgage system"}
