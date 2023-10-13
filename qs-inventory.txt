@@ -1,1 +1,1 @@
-{"version":"2.4.1", "notes":"In general, this patch resolves some common errors and improves the system both in decay and in others. Some exploits were resolved, such as simultaneous firing while changing weapons, etc."}
+{"version":"2.4.2", "notes":"Pretty big patch, replace completely or read the changelog in your customer channel, important"}
