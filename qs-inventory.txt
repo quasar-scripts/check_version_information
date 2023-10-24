@@ -1,1 +1,1 @@
-{"version":"2.4.4", "notes":"Fixed some critical bugs!"}
+{"version":"2.4.5", "notes":"Please update the entire resource, you can save config.lua, local and shared folder, but everything else had drastic changes, you can read all changes in changelog channel"}
