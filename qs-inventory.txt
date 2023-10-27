@@ -1,1 +1,1 @@
-{"version":"2.4.5", "notes":"Please update the entire resource, you can save config.lua, local and shared folder, but everything else had drastic changes, you can read all changes in changelog channel"}
+{"version":"2.4.7", "notes":"If you have any random bugs that have not been resolved in this patch, please reinstall the asset following the new, comprehensive documentation we created yesterday"}
