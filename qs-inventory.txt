@@ -1,1 +1,1 @@
-{"version":"2.4.7", "notes":"If you have any random bugs that have not been resolved in this patch, please reinstall the asset following the new, comprehensive documentation we created yesterday"}
+{"version":"2.4.7", "notes":"If you have any random bugs that have not been resolved in this patch, please reinstall the asset following the new, comprehensive documentation we created yesterday!"}
