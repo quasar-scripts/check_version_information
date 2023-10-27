@@ -1,1 +1,1 @@
-{"version":"2.7.3", "notes":"Some general parameters of the asset were fixed and exports were added, check the changelog in your customer channel"}
+{"version":"2.7.4", "notes":"Giant patch before smartphone version 3, remember to read the entire changelog"}
